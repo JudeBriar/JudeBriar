@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá, bem vindo ao meu perfil💫✨
+
+Meu nome é Mariana Silva
+Sou estudante do Alura
+
 
 <!--
 **JudeBriar/JudeBriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
